@@ -115,11 +115,6 @@ The following preprocessing steps were performed:
 * Enhance customer support for Fiber Optic users.
 * Develop personalized retention programs for senior citizens.
 
----
-
-## Dashboard Preview
-
-<img width="100%" alt="Telco Churn Dashboard" src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\Screenshot 2026-05-20 172610.png">
 
 ---
 

@@ -119,7 +119,7 @@ The following preprocessing steps were performed:
 
 ## Dashboard Preview
 
-<img width="100%" alt="Telco Churn Dashboard" src="Dashboard_Screenshot.png">
+<img width="100%" alt="Telco Churn Dashboard" src="C:\Users\lenovo\OneDrive\Pictures\Screenshots\Screenshot 2026-05-20 172610.png">
 
 ---
 
